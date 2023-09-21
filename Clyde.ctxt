@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Clyde
+comment0.text=\n\ Write\ a\ description\ of\ class\ Clyde\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Clyde()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ skiftBillede()
+comment4.params=
+comment4.target=boolean\ flyt()
+comment5.params=
+comment5.target=boolean\ erMur()
+comment6.params=
+comment6.target=void\ spisPacman()
+numComments=7
